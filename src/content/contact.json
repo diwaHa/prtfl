@@ -1,0 +1,78 @@
+{
+  "sectionLabel": "Get In Touch",
+  "headline": "Let's Build Something Exceptional Together",
+  "subtitle": "Ready to elevate your digital presence? Fill out the form or schedule a call, and we'll reply within 24 hours.",
+  "email": "hello@novastudio.dev",
+  "phone": "+1 (555) 123-4567",
+  "location": "San Francisco, CA",
+  "timezone": "PST (UTC-8)",
+  "bookCallCta": {
+    "label": "Schedule a Call",
+    "href": "https://calendly.com/novastudio"
+  },
+  "socialLinks": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/novastudio",
+      "label": "Twitter"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/novastudio",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/novastudio",
+      "label": "GitHub"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/novastudio",
+      "label": "Dribbble"
+    }
+  ],
+  "formFields": [
+    {
+      "name": "name",
+      "label": "Your Name",
+      "type": "text",
+      "placeholder": "John Doe",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email Address",
+      "type": "email",
+      "placeholder": "john@example.com",
+      "required": true
+    },
+    {
+      "name": "company",
+      "label": "Company Name",
+      "type": "text",
+      "placeholder": "Acme Inc.",
+      "required": false
+    },
+    {
+      "name": "budget",
+      "label": "Estimated Budget",
+      "type": "select",
+      "placeholder": "Select a budget range...",
+      "required": true,
+      "options": [
+        "$5,000 - $10,000",
+        "$10,000 - $25,000",
+        "$25,000 - $50,000",
+        "$50,000+"
+      ]
+    },
+    {
+      "name": "message",
+      "label": "Tell Us About Your Project",
+      "type": "textarea",
+      "placeholder": "Please share any details about what you would like to build...",
+      "required": true
+    }
+  ]
+}

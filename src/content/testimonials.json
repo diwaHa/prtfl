@@ -1,0 +1,39 @@
+{
+  "sectionLabel": "Client Testimonials",
+  "headline": "What Our Partners Say About Us",
+  "subtitle": "Direct feedback from founders and engineering leads who have experienced our collaborative workflow.",
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "quote": "Nova Studio transformed our product interface from complex and hard to digest into a beautiful, seamless, and lightning-fast experience. Our user onboarding numbers tripled in weeks.",
+      "author": "Sarah Jenkins",
+      "role": "VP of Product",
+      "company": "Apex Analytics",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "quote": "The 3D product visualizer that Nova Studio engineered for our brand has set a new benchmark in our space. Not only is it fast, but it is also accessible and functions perfectly on all mobile devices.",
+      "author": "Marcus Thorne",
+      "role": "Creative Director",
+      "company": "Aurora Luxury Group",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "quote": "Working with Nova Studio was a masterclass in collaboration. They functioned as a direct extension of our core team, aligning our brand goals with top-tier React engineering.",
+      "author": "Elena Rostova",
+      "role": "Co-Founder",
+      "company": "Zenith Wallet",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-4",
+      "quote": "Nova Studio's deep understanding of performance optimization is incredible. Our site's load speed drops under a second, directly reflecting on our organic Google rankings.",
+      "author": "David Miller",
+      "role": "Lead Architect",
+      "company": "Krypton Cloud",
+      "rating": 4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "tagline": "Nova Studio bridges the gap between premium visual design and high-fidelity front-end engineering.",
+  "copyright": "© {year} Nova Studio. All rights reserved.",
+  "navigation": [
+    { "label": "About", "href": "#about" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Process", "href": "#process" },
+    { "label": "Testimonials", "href": "#testimonials" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "closingLine": "Handcrafted with passion and code in San Francisco.",
+  "serviceLinks": [
+    { "label": "Web Development", "href": "#services" },
+    { "label": "UI/UX Design", "href": "#services" },
+    { "label": "Brand Identity", "href": "#services" },
+    { "label": "3D Experiences", "href": "#services" }
+  ]
+}

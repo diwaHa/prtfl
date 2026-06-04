@@ -1,0 +1,43 @@
+{
+  "name": "Nova Studio",
+  "title": "Nova Studio — Premium Digital Experiences",
+  "description": "We craft premium, high-performance, and cinematic 3D digital products, websites, and brand identities for ambitious businesses.",
+  "url": "https://novastudio.dev",
+  "ogImage": "/opengraph-image",
+  "brand": {
+    "letter": "N",
+    "name": "Nova",
+    "suffix": "."
+  },
+  "headerCta": {
+    "label": "Get in Touch",
+    "href": "#contact"
+  },
+  "twitterHandle": "@novastudio",
+  "email": "hello@novastudio.dev",
+  "phone": "+1 (555) 123-4567",
+  "timezone": "PST (UTC-8)",
+  "location": "San Francisco, CA",
+  "socialLinks": [
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/novastudio",
+      "label": "Twitter"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/novastudio",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/novastudio",
+      "label": "GitHub"
+    },
+    {
+      "platform": "Dribbble",
+      "url": "https://dribbble.com/novastudio",
+      "label": "Dribbble"
+    }
+  ]
+}

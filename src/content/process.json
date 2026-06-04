@@ -1,0 +1,56 @@
+{
+  "sectionLabel": "How We Work",
+  "headline": "A Structured Process Built for Success",
+  "subtitle": "We guide your project through a comprehensive, transparent, and tested lifecycle to guarantee results.",
+  "steps": [
+    {
+      "id": "step-discover",
+      "number": 1,
+      "title": "Discover",
+      "description": "Deep dive research into your business, target audience, technical challenges, and ultimate commercial goals.",
+      "icon": "Search"
+    },
+    {
+      "id": "step-plan",
+      "number": 2,
+      "title": "Plan",
+      "description": "Architecting the technical solution, wireframing user paths, and aligning on exact scopes and deadlines.",
+      "icon": "Calendar"
+    },
+    {
+      "id": "step-design",
+      "number": 3,
+      "title": "Design",
+      "description": "Crafting premium user interfaces, detailed color systems, custom visual elements, and interactive Figma files.",
+      "icon": "Palette"
+    },
+    {
+      "id": "step-build",
+      "number": 4,
+      "title": "Build",
+      "description": "Translating designs into clean, semantic, and type-safe frontend code using Next.js and optimized 3D rendering.",
+      "icon": "Code"
+    },
+    {
+      "id": "step-test",
+      "number": 5,
+      "title": "Test",
+      "description": "Rigorous quality checks, cross-device responsiveness verification, speed audits, and accessibility tests.",
+      "icon": "CheckSquare"
+    },
+    {
+      "id": "step-launch",
+      "number": 6,
+      "title": "Launch",
+      "description": "Deploying your application to high-availability servers, implementing analytics, and confirming live status.",
+      "icon": "Rocket"
+    },
+    {
+      "id": "step-support",
+      "number": 7,
+      "title": "Support",
+      "description": "Ongoing hosting support, code maintenance, performance monitoring, and iterative version extensions.",
+      "icon": "LifeBuoy"
+    }
+  ]
+}

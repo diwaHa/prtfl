@@ -1,0 +1,26 @@
+{
+  "sectionLabel": "Who We Are",
+  "headline": "Designing the Future of Digital Interaction",
+  "description": "Nova Studio is an independent creative collective that bridges the gap between gorgeous design and state-of-the-art technology.",
+  "paragraphs": [
+    "We believe that a website should be more than just static content on a screen. It should be a dynamic, immersive experience that grabs the visitor's attention, tells a compelling story, and drives meaningful actions.",
+    "Our approach combines deep technical capabilities in modern frontend engineering, WebGL/three-dimensional interfaces, and meticulous UI/UX detail. We collaborate closely with ambitious founders and brands to create memorable web presences."
+  ],
+  "differentiators": [
+    {
+      "icon": "Zap",
+      "title": "Unrivaled Performance",
+      "description": "Blazing fast load times and ultra-smooth animations optimized for all devices and screens."
+    },
+    {
+      "icon": "Shield",
+      "title": "Production-Ready Quality",
+      "description": "Rigorous standards, type-safe architecture, and clean design patterns built to scale."
+    },
+    {
+      "icon": "Users",
+      "title": "Collaborative Execution",
+      "description": "We act as your technical partners, keeping you closely aligned throughout the product journey."
+    }
+  ]
+}

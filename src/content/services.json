@@ -1,0 +1,85 @@
+{
+  "sectionLabel": "What We Do",
+  "headline": "Services Tailored for Exceptional Brands",
+  "subtitle": "We specialize in translating complex ideas into elegant, reliable, and premium digital solutions.",
+  "services": [
+    {
+      "id": "web-development",
+      "icon": "Zap",
+      "title": "Creative Web Development",
+      "description": "Premium Next.js applications engineered with animations and 3D scenes that do not compromise speed or SEO.",
+      "problem": "Generic websites struggle to engage visitors and hurt conversions due to poor styling and performance.",
+      "deliverables": [
+        "Interactive Next.js Websites",
+        "Smooth Framer Motion Transitions",
+        "Fast-Loading React Three Fiber Scenes",
+        "Responsive, Accessible Styling"
+      ]
+    },
+    {
+      "id": "uiux-design",
+      "icon": "Lightbulb",
+      "title": "High-Fidelity UI/UX Design",
+      "description": "Bespoke user interface and experience systems built around your users' journeys and business objectives.",
+      "problem": "Unintuitive user journeys lead to high dropoff rates and user frustration.",
+      "deliverables": [
+        "Interactive Figma Prototypes",
+        "Detailed User Flow Mapping",
+        "Custom Design Systems",
+        "Usability Testing & Iteration"
+      ]
+    },
+    {
+      "id": "brand-identity",
+      "icon": "Shield",
+      "title": "Cohesive Brand Identity",
+      "description": "Establishing visual guidelines, logos, custom typography, and color systems that build trust.",
+      "problem": "Weak or inconsistent branding causes businesses to blend in and lose credibility.",
+      "deliverables": [
+        "Unique Logo Marks",
+        "Color Palette & Typography",
+        "Brand Guidelines Documents",
+        "Custom Visual Assets & SVG Logos"
+      ]
+    },
+    {
+      "id": "mobile-apps",
+      "icon": "Users",
+      "title": "Native & Cross-Platform Apps",
+      "description": "Responsive, fast, and feature-rich mobile applications that feel premium on iOS and Android.",
+      "problem": "Slow mobile apps fail to retain users, and maintaining separate codebases is expensive.",
+      "deliverables": [
+        "React Native Mobile Apps",
+        "Seamless Offline Integrations",
+        "App Store & Play Store Publishing",
+        "Push Notification Pipelines"
+      ]
+    },
+    {
+      "id": "ecommerce",
+      "icon": "Zap",
+      "title": "Immersive E-Commerce",
+      "description": "Interactive shopping experiences with customized product customizers, fast checkouts, and clean designs.",
+      "problem": "Clunky checkouts and generic product presentation result in abandoned carts.",
+      "deliverables": [
+        "Custom Headless E-Commerce Setup",
+        "Immersive 3D Product Previews",
+        "Secure Stripe & Payment Integration",
+        "High-Performance Cart Mechanics"
+      ]
+    },
+    {
+      "id": "digital-strategy",
+      "icon": "Lightbulb",
+      "title": "Strategic Digital Consulting",
+      "description": "Aligning your technological roadmap with market opportunities to optimize development velocity.",
+      "problem": "Building products without clear technological planning leads to costly rewrites.",
+      "deliverables": [
+        "System Architecture Audits",
+        "SEO & Web Performance Audit",
+        "Technology Stack Selection Plans",
+        "Agile Growth Strategies"
+      ]
+    }
+  ]
+}

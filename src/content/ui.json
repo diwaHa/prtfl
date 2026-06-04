@@ -1,0 +1,44 @@
+{
+  "accessibility": {
+    "skipToContent": "Skip to main content"
+  },
+  "hero": {
+    "scrollLabel": "Scroll"
+  },
+  "contact": {
+    "formTitle": "Send a message",
+    "formDescription": "All fields marked with * are required.",
+    "connectLabel": "Connect",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "timezoneLabel": "Timezone",
+    "sendMessageLabel": "Send Message",
+    "sendingLabel": "Sending...",
+    "toasts": {
+      "validationError": "Please fix the highlighted fields.",
+      "success": "Message sent! We'll be in touch within 24 hours.",
+      "error": "Something went wrong. Please try again.",
+      "networkError": "Network error. Please check your connection."
+    }
+  },
+  "services": {
+    "challengeLabel": "The Challenge",
+    "deliverablesLabel": "Deliverables"
+  },
+  "projects": {
+    "featuredTooltip": "Featured Case Study",
+    "challengeLabel": "The Challenge",
+    "solutionLabel": "Our Solution",
+    "resultLabel": "The Commercial Result",
+    "techStackLabel": "Tech Stack Used",
+    "closeCaseStudyLabel": "Close Case Study",
+    "filterAllLabel": "All"
+  },
+  "footer": {
+    "navigationLabel": "Navigation",
+    "servicesLabel": "Services",
+    "followLabel": "Follow Us",
+    "backToTopLabel": "Back to top"
+  }
+}

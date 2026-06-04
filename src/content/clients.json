@@ -1,0 +1,47 @@
+{
+  "sectionLabel": "Our Partners",
+  "headline": "Trusted by Forward-Thinking Brands",
+  "subtitle": "We collaborate with ambitious startups and established enterprises across various technology sectors.",
+  "clients": [
+    {
+      "name": "Acme Corp",
+      "industry": "Enterprise SaaS"
+    },
+    {
+      "name": "Stark Labs",
+      "industry": "Robotics & AI"
+    },
+    {
+      "name": "Wayne Enterprises",
+      "industry": "Defense Tech"
+    },
+    {
+      "name": "Oscorp",
+      "industry": "Biotech"
+    },
+    {
+      "name": "Tyrell Systems",
+      "industry": "Artificial Intelligence"
+    },
+    {
+      "name": "Cyberdyne",
+      "industry": "Cloud Infrastructure"
+    },
+    {
+      "name": "Initech",
+      "industry": "Office Software"
+    },
+    {
+      "name": "Hooli",
+      "industry": "Consumer Web"
+    },
+    {
+      "name": "Veer",
+      "industry": "Green Energy"
+    },
+    {
+      "name": "Aether",
+      "industry": "Aerospace"
+    }
+  ]
+}

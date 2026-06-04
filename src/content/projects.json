@@ -1,0 +1,85 @@
+{
+  "sectionLabel": "Featured Work",
+  "headline": "Crafting Solutions to Complex Problems",
+  "subtitle": "A curated collection of projects that combine design excellence, technical innovation, and commercial success.",
+  "projects": [
+    {
+      "id": "apex-saas",
+      "title": "Apex Analytics Dashboard",
+      "category": "SaaS Platform",
+      "summary": "A real-time data visualization engine processing millions of events daily with complex charting and dynamic layout components.",
+      "challenge": "The client struggled with heavy loading states and sluggish UI rendering when sorting through extensive datasets.",
+      "solution": "We re-engineered their analytical UI using Next.js Server Components, custom Web Workers for processing, and a lightweight chart mapping library.",
+      "result": "Lighthouse performance score jumped to 98/100, page loads dropped under 1.2 seconds, and active user retention increased by 42%.",
+      "tools": ["Next.js", "TypeScript", "Tailwind CSS", "Recharts", "Web Workers"],
+      "image": "/images/projects/apex.svg",
+      "color": "#6366f1",
+      "featured": true
+    },
+    {
+      "id": "aurora-luxury",
+      "title": "Aurora E-Commerce Suite",
+      "category": "E-Commerce",
+      "summary": "An immersive digital storefront for an upscale fashion brand featuring interactive 3D product configurations.",
+      "challenge": "Generic templates failed to showcase the premium quality and detailed texture of high-end accessories.",
+      "solution": "Built a headless Shopify store using React Three Fiber to display high-fidelity, interactive 3D models with light shading.",
+      "result": "Average session duration increased by 180% and direct checkout conversion rate climbed by 34%.",
+      "tools": ["Next.js", "React Three Fiber", "Shopify API", "Three.js", "Tailwind CSS"],
+      "image": "/images/projects/aurora.svg",
+      "color": "#06b6d4",
+      "featured": true
+    },
+    {
+      "id": "zenith-crypto",
+      "title": "Zenith Wallet App",
+      "category": "Mobile App",
+      "summary": "A high-security, ultra-fast decentralized crypto asset wallet and tracking interface with elegant animations.",
+      "challenge": "Navigating decentralized asset transfers felt intimidating and error-prone for non-technical users.",
+      "solution": "Designed and built an intuitive user experience with step-by-step transaction validation and seamless micro-interactions.",
+      "result": "Achieved a 4.9 App Store rating in the first 3 months and zero reporting of user-error transaction loss.",
+      "tools": ["React Native", "TypeScript", "Ethers.js", "Framer Motion", "Zustand"],
+      "image": "/images/projects/zenith.svg",
+      "color": "#f43f5e",
+      "featured": true
+    },
+    {
+      "id": "lumina-studios",
+      "title": "Lumina Creative Portfolio",
+      "category": "Brand Identity",
+      "summary": "A cinematically spaced showcase site for an award-winning production studio using rich typography and smooth scroll effects.",
+      "challenge": "Standard scroll patterns broke the cinematic pacing and failed to highlight large high-res video reels.",
+      "solution": "Integrated a smooth-scrolling engine (Lenis) with custom scroll-bound scale and transform matrices via Framer Motion.",
+      "result": "Created a mesmerizing visual narrative that won multiple design accolades, including site of the day nominations.",
+      "tools": ["Next.js", "Lenis", "Framer Motion", "Tailwind CSS", "Vercel"],
+      "image": "/images/projects/lumina.svg",
+      "color": "#8b5cf6",
+      "featured": true
+    },
+    {
+      "id": "krypton-cloud",
+      "title": "Krypton Cloud Console",
+      "category": "SaaS Platform",
+      "summary": "A developer-focused cloud deployment manager featuring a dark-themed terminal integration and instant builds.",
+      "challenge": "Managing multi-cluster Kubernetes deployments was slow, complex, and difficult to monitor on the go.",
+      "solution": "Created an optimized UI with live terminal logs, immediate socket notifications, and instant status indicator states.",
+      "result": "Reduced the configuration workflow from 15 steps down to 4 steps, accelerating developer velocity by 60%.",
+      "tools": ["React", "TypeScript", "WebSockets", "Xterm.js", "Tailwind CSS"],
+      "image": "/images/projects/krypton.svg",
+      "color": "#f59e0b",
+      "featured": false
+    },
+    {
+      "id": "helious-energy",
+      "title": "Helios Solar Portal",
+      "category": "Corporate Website",
+      "summary": "A consumer portal illustrating solar panel production, battery storage levels, and household usage savings.",
+      "challenge": "Explaining dynamic green energy stats in static charts was uninspiring and difficult to digest.",
+      "solution": "Built interactive vector animations showing active current loops and solar savings over customized time sliders.",
+      "result": "Customer signup rates for solar panel evaluations rose by 48% within 60 days of the launch.",
+      "tools": ["Next.js", "Framer Motion", "Tailwind CSS", "SVG Animation", "Zod"],
+      "image": "/images/projects/helios.svg",
+      "color": "#10b981",
+      "featured": false
+    }
+  ]
+}

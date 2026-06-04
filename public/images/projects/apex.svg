@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Apex Analytics Dashboard preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <rect x="48" y="56" width="704" height="48" rx="12" fill="#12121a" stroke="#6366f1" stroke-opacity="0.35"/>
+  <text x="72" y="88" fill="#e8e8ef" font-family="system-ui,sans-serif" font-size="20" font-weight="700">Apex Analytics</text>
+  <rect x="48" y="128" width="220" height="296" rx="16" fill="#12121a" stroke="#2a2a3e"/>
+  <rect x="292" y="128" width="460" height="140" rx="16" fill="#12121a" stroke="#6366f1" stroke-opacity="0.5"/>
+  <polyline points="320,220 380,180 440,200 500,150 560,170 620,120 700,140" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <rect x="292" y="288" width="220" height="136" rx="16" fill="#12121a"/>
+  <rect x="532" y="288" width="220" height="136" rx="16" fill="#12121a"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Lumina Creative Portfolio preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#2e1065"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <text x="80" y="200" fill="#e8e8ef" font-family="system-ui,sans-serif" font-size="64" font-weight="800">LUMINA</text>
+  <rect x="80" y="240" width="400" height="4" fill="#8b5cf6"/>
+  <rect x="80" y="280" width="640" height="120" rx="8" fill="#12121a" stroke="#8b5cf6" stroke-opacity="0.4"/>
+  <rect x="100" y="300" width="180" height="80" rx="4" fill="#8b5cf6" fill-opacity="0.25"/>
+  <rect x="300" y="300" width="180" height="80" rx="4" fill="#8b5cf6" fill-opacity="0.15"/>
+  <rect x="500" y="300" width="200" height="80" rx="4" fill="#8b5cf6" fill-opacity="0.1"/>
+</svg>

@@ -1,0 +1,32 @@
+{
+  "availabilityBadge": "Available for new projects",
+  "headline": "We Craft Digital",
+  "highlightedText": "Experiences",
+  "subtitle": "A premium boutique digital studio designing and engineering high-fidelity websites, interactive web applications, and immersive 3D interfaces.",
+  "primaryCta": {
+    "label": "View Projects",
+    "href": "#projects"
+  },
+  "secondaryCta": {
+    "label": "Contact Us",
+    "href": "#contact"
+  },
+  "trustSignals": [
+    {
+      "value": "50+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "30+",
+      "label": "Happy Clients"
+    },
+    {
+      "value": "5+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "99%",
+      "label": "Satisfaction Rate"
+    }
+  ]
+}

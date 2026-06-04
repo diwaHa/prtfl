@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Helios Solar Portal preview">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#sky)"/>
+  <circle cx="640" cy="100" r="48" fill="#f59e0b" fill-opacity="0.9"/>
+  <rect x="120" y="280" width="560" height="120" rx="16" fill="#12121a" stroke="#10b981" stroke-opacity="0.5"/>
+  <rect x="140" y="300" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.2"/>
+  <text x="200" y="352" text-anchor="middle" fill="#10b981" font-family="system-ui,sans-serif" font-size="22" font-weight="700">78%</text>
+  <text x="340" y="330" fill="#e8e8ef" font-family="system-ui,sans-serif" font-size="16" font-weight="600">Solar output today</text>
+  <polyline points="340,380 420,360 500,370 580,340 660,350" fill="none" stroke="#10b981" stroke-width="3"/>
+</svg>

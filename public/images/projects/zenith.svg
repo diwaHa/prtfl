@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Zenith Wallet App preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#3f0d1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <rect x="280" y="40" width="240" height="400" rx="32" fill="#12121a" stroke="#f43f5e" stroke-opacity="0.5"/>
+  <rect x="304" y="80" width="192" height="120" rx="16" fill="#1a1a2e"/>
+  <text x="400" y="150" text-anchor="middle" fill="#f43f5e" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Z</text>
+  <rect x="304" y="220" width="192" height="48" rx="12" fill="#f43f5e" fill-opacity="0.15"/>
+  <rect x="304" y="284" width="192" height="48" rx="12" fill="#1a1a2e"/>
+  <rect x="304" y="348" width="192" height="48" rx="12" fill="#1a1a2e"/>
+</svg>

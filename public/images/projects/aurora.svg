@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Aurora E-Commerce Suite preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <ellipse cx="400" cy="200" rx="280" ry="180" fill="url(#glow)"/>
+  <circle cx="400" cy="220" r="72" fill="none" stroke="#06b6d4" stroke-width="3"/>
+  <circle cx="400" cy="220" r="48" fill="#12121a" stroke="#06b6d4" stroke-opacity="0.6"/>
+  <text x="400" y="228" text-anchor="middle" fill="#e8e8ef" font-family="system-ui,sans-serif" font-size="14" font-weight="600">3D Product</text>
+  <rect x="120" y="360" width="560" height="72" rx="36" fill="#06b6d4" fill-opacity="0.2" stroke="#06b6d4"/>
+  <text x="400" y="406" text-anchor="middle" fill="#e8e8ef" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Aurora Luxury</text>
+</svg>
